@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cfc97de-0d9c-49a7-958a-0d9de57538fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerMap/Map1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerMap/ordenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIST/ExerOrdListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIST/ExercicioSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIST/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIST/OrdenacaoLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Ar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Ar3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaace/OperacaoMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos/exercici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacao_objeto/metodoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/exer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GMTF3omKzvLYsa8q6ejwpidbQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.exer">
+    <configuration name="ExerOrdListSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LIST.ExerOrdListSet" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LIST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LIST.ExercicioSet" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LIST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerMap.Map1" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.exer" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ordenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerMap.ordenacaoMap" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exer" />
+        <item itemvalue="Application.ordenacaoMap" />
+        <item itemvalue="Application.Map1" />
+        <item itemvalue="Application.ExerOrdListSet" />
+        <item itemvalue="Application.ExercicioSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cfc97de-0d9c-49a7-958a-0d9de57538fb" name="Changes" comment="" />
+      <created>1666197351536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666197351536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$Ex2.ic" NAME="Ex2 Coverage Results" MODIFIED="1666283245687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/untitled1$Main.ic" NAME="Main Coverage Results" MODIFIED="1666715318939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/untitled1$Ex3.ic" NAME="Ex3 Coverage Results" MODIFIED="1666284567472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/untitled1$desafio5.ic" NAME="desafio5 Coverage Results" MODIFIED="1666749653477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Desafios.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/untitled1$Ex5.ic" NAME="Ex5 Coverage Results" MODIFIED="1666290866660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
